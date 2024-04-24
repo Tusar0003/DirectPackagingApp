@@ -527,7 +527,7 @@
     "Jersey",
     "Hoodie"
   ],
-  "PrivacyPoliciesPageUrlOrId": "https://inspireui.com/privacy/",
+  "PrivacyPoliciesPageUrlOrId": "https://directpackaging.online/privacy-policy/",
   "MetaSeo": {
     "app": {
       "excludes": [
@@ -566,6 +566,6 @@
     ]
   },
   "overrideTranslation": {
-    "copyright": "Copyright © 2024 InspireUI Ltd. All rights reserved."
+    "copyright": "Copyright © 2024 Direct Packaging & Solution Ltd. All rights reserved."
   }
 }

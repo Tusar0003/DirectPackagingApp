@@ -41,7 +41,7 @@ Map<String, dynamic> environment = {
   },
   "appRatingConfig": {
     'showOnOpen': false,
-    'android': 'com.inspireui.fluxstore',
+    'android': 'com.oekhost.directpackaging',
     'ios': '1469772800',
     'minDays': 7,
     'minLaunches': 10,
